@@ -14,15 +14,7 @@ The project is implemented using TensorFlow, Keras, OpenCV, and Tkinter for the 
 - Prediction with a pretrained deep learning model.
 - Simple GUI to display live video and classification results.
 
----
 
-## Demo Screenshot
-
-Here is a preview of the classifier in action:
-
-![Output Screenshot](images/output.png)
-
----
 
 ## Installation
 
